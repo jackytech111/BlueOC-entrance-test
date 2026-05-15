@@ -1,0 +1,16 @@
+{
+  "name": "blueoc-entrance-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node task-1/test.js",
+    "task2": "node task-2/test.js",
+    "task3": "npm --prefix task-3 run dev",
+    "task3:build": "npm --prefix task-3 run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
